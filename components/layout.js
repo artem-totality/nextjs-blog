@@ -8,9 +8,8 @@ const name = 'Maryasha';
 export const siteTitle = 'Next.js Sample Website';
 
 export default function Layout({ children, home }) {
-  console.log(styles);
   return (
-    <div className={styles['container-inner']}>
+    <div className={styles['container']}>
       <Head>
         <link rel="icon" href="/favicon.ico" />
         <meta

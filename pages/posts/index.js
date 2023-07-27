@@ -16,7 +16,7 @@ export default function FirstPost() {
           console.log(`script loaded correctly, window.FB has been populated`)
         }
       />
-      <h1>First Post</h1>
+      <h1>Index file</h1>
       <img src="/images/profile.jpg" alt="Maryasha" />
       <h2>
         <Link href="/">Back to home</Link>
